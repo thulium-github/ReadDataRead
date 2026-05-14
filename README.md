@@ -1,5 +1,5 @@
 # ReadDataRead
-bash script for reading binary data into an integer array. wrote as a back-up in the event more specialised tools aren't available (like dd)
+bash script for reading binary data into an integer array. wrote as a back-up in the event more specialised tools aren't available (like `dd`)
 
 notes:
 - tested on debian, and termux (not really a linux distro but it works)
